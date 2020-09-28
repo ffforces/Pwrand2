@@ -8,7 +8,7 @@ description::
 Exactly the same as Pwrand, but the weights are .normalizeSummed as default.
 
 Pwrand:
-Returns one item from the list at random for each repeat, the probability for each item is determined by a list of weights which should sum to 1.0.
+Returns one item from the list at random for each repeat, the probability for each item is determined by a list of weights.
 
 Examples::
 
